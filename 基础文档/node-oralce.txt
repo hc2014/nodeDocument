@@ -1,0 +1,1 @@
+linux 安装Node-oracle模块 参照这个帖子http://my.oschina.net/xbl/blog/185559
